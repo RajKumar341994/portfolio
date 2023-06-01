@@ -1,0 +1,13 @@
+body {  
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+#h2-col {
+    color: brown;
+}
+.para {
+    color: blue;
+}
